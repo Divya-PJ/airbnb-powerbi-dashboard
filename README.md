@@ -15,7 +15,7 @@ This project presents an **interactive Power BI dashboard** analyzing Airbnb pro
 
 # Airbnb Power BI Dashboard  
 
-![Airbnb Dashboard](dashboard.png)
+![Airbnb Dashboard](airbnb.png)
 
 ## Repository Contents  
 - `.pbix` file: Power BI dashboard  
