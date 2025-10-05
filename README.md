@@ -13,8 +13,13 @@ This project presents an **interactive Power BI dashboard** analyzing Airbnb pro
 - **Data Analysis**: Cleaning and transforming Airbnb dataset  
 - **Storytelling with Data**: Turning raw data into actionable insights  
 
+# Airbnb Power BI Dashboard  
+
+![Airbnb Dashboard](dashboard.png)
+
 ## Repository Contents  
 - `.pbix` file: Power BI dashboard  
-- `.mp4` file: Demo video of dashboard walkthrough  
+- `.mp4` file: Demo video of dashboard walkthrough
+
 
 This project demonstrates my ability to work with real-world data, design insightful dashboards, and communicate findings effectively.  
